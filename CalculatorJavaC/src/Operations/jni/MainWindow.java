@@ -29,8 +29,10 @@ import java.awt.Component;
 
 import Operations.jni.*;
 
+//Interfaz de usuario y clase que llama a la biblioteca en c
 public class MainWindow {
 
+	//metodos de biblioteca en C
 	 public native void sayHello();
 	 public native int suma(int arg, int arg2);
 	 public native int mul(int arg, int arg2);

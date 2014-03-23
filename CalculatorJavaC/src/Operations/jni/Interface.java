@@ -1,5 +1,5 @@
 package Operations.jni;
-
+//Clase de interfaz de ejemplo de uso en C. No se utiliza en el proyecto
 public class Interface {
 	 public native void sayHello();
 	 public native void suma(int arg, int arg2);
