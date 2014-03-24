@@ -15,6 +15,9 @@ Calculadora en Java con biblioteca de operaciones en C
 Instalcion de paquetes y bibliotecas: 
 https://docs.google.com/document/d/1i9K8u4qdpP9Ie5zfG6PLx4n2bqaTq5ZbMjsArLyXDk0/edit?hl=en_US
 
+La direccion de la carpeta con las bibliotecas de C en el proyecto CalculatorJavaC debe darse exacta, 
+por lo que se debe cambiar en la configuracion del proyecto a la hora de compilarlo
+
 *Características:
 -El programa utiliza la biblioteca de operaciones creada en C en el proyecto OperationsLibrary
 -Se decidió utilizar la clase de interfaz de usuario como clase principal del proyecto.
